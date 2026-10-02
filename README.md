@@ -241,4 +241,4 @@ This repository serves as the official landing page for WinHotKey. The software 
 **Get the most recent version of WinHotKey today!**
 
 ---
-**Last updated:** 2026-10-02 13:44:13 UTC
+**Last updated:** 2026-10-02 19:07:09 UTC
